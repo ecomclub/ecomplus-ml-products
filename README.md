@@ -1,4 +1,4 @@
-# ecomplus-recomendation-products
+# ecomplus-ml-products
 Python script for E-Com Plus products recommendation with machine learning and data science
 
 # Technology stack
