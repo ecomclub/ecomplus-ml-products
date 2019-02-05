@@ -22,5 +22,5 @@ pip install matplotlib
 
 ## Running the script
 ```bash
-python3 find_profile.py birth_date.year gender addresses[].country_code 
+python3 recommend-products.py csv-input csv-output
 ```
